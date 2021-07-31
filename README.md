@@ -1,5 +1,4 @@
 # New-project
-learn programing
 hi iam adham.
 
 and iam here to learn programing launguages 
